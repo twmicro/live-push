@@ -1,0 +1,9 @@
+c:\users\chicherin\documents\visual studio 2015\Projects\LivePush\LivePush\bin\Debug\LivePush.exe.config
+c:\users\chicherin\documents\visual studio 2015\Projects\LivePush\LivePush\bin\Debug\LivePush.exe
+c:\users\chicherin\documents\visual studio 2015\Projects\LivePush\LivePush\bin\Debug\LivePush.pdb
+c:\users\chicherin\documents\visual studio 2015\Projects\LivePush\LivePush\obj\Debug\LivePush.csprojResolveAssemblyReference.cache
+c:\users\chicherin\documents\visual studio 2015\Projects\LivePush\LivePush\obj\Debug\LivePush.Properties.Resources.resources
+c:\users\chicherin\documents\visual studio 2015\Projects\LivePush\LivePush\obj\Debug\LivePush.csproj.GenerateResource.Cache
+c:\users\chicherin\documents\visual studio 2015\Projects\LivePush\LivePush\obj\Debug\LivePush.exe
+c:\users\chicherin\documents\visual studio 2015\Projects\LivePush\LivePush\obj\Debug\LivePush.pdb
+c:\users\chicherin\documents\visual studio 2015\Projects\LivePush\LivePush\obj\Debug\LivePush.MainForm.resources
